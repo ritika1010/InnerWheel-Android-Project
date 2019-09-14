@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433055571447",
+    "firebase_url": "https://innerwheelclub-7f7c6.firebaseio.com",
+    "project_id": "innerwheelclub-7f7c6",
+    "storage_bucket": "innerwheelclub-7f7c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433055571447:android:15fd893a3574aaafc922f2",
+        "android_client_info": {
+          "package_name": "com.example.innerwheelclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433055571447-lpg5vnohhe6gsbl04ek395b5i83cdqtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.innerwheelclub",
+            "certificate_hash": "08735d4e2d93981f71b56305fed223ab15395722"
+          }
+        },
+        {
+          "client_id": "433055571447-6doh20sfonjvj8aj7qfqcdf9r08o651u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1r2nSJWvmo7VcHzmY5_Wz-x-IWj88O88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433055571447-6doh20sfonjvj8aj7qfqcdf9r08o651u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
